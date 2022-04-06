@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.revature.service.ReimbursementServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-04-04T15:56:06" hostname="DEVAS" time="0.11">
+  <properties/>
+  <testcase name="getReimbursementStatusTest()" classname="com.revature.service.ReimbursementServiceTest" time="0.037"/>
+  <testcase name="getReimbursementForMgrByStatusTest()" classname="com.revature.service.ReimbursementServiceTest" time="0.007"/>
+  <testcase name="getReimbursementTypesTest()" classname="com.revature.service.ReimbursementServiceTest" time="0.003"/>
+  <testcase name="updateReimbursementStatusTest()" classname="com.revature.service.ReimbursementServiceTest" time="0.044"/>
+  <testcase name="getReimbursementForMgr()" classname="com.revature.service.ReimbursementServiceTest" time="0.003"/>
+  <testcase name="getReimbursementForEmpTest()" classname="com.revature.service.ReimbursementServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -11,12 +11,12 @@ Need to change the front-end view from (a multi-page application) to Angular (si
 
 - Steps to download the project repo.
 -   Clone from below URL
--   ```
+  ```
   * git remote add origin git@github.com:java-gcp-220228/DevasProject1.git
   * git push -u origin main
   * …or push an existing repository from the command line
   * git remote add origin git@github.com:java-gcp-220228/DevasProject1.git
-
+```
 
 ## Features
 

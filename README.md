@@ -13,15 +13,15 @@ The Expense Reimbursement System (ERS) allows employees to submit reimbursement 
 ## Features
 
    ### Employee Features:
-    * Login and view current status of reimbursements
-    * Submit a new reimbursement request
-    * Filter Reimbursements by Reimbursement Type, and Status.
+    - Login and view current status of reimbursements
+    - Submit a new reimbursement request
+    - Filter Reimbursements by Reimbursement Type, and Status.
 
    ### Manager Features:
     - Navigate to Manager Page
     - View All Reimbursements
-    * Filter Reimbursements by Reimbursement Type, and Status.
-    * Approve/Deny any Pending Reimbursement
+    - Filter Reimbursements by Reimbursement Type, and Status.
+    - Approve/Deny any Pending Reimbursement
 
 ## To-Dos
 
